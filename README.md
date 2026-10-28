@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-YOURLS is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://yourls.org/
+YOURLS (Your Own URL Shortener) is an open‑source PHP application that lets you run your own URL shortening service on a self‑hosted server. It provides a simple web interface, API endpoints for creating, managing, and tracking short URLs, and supports plugins for extending functionality. The project is maintained by the community and offers documentation, a GitHub repository, and a public blog for updates and support.
+
+**Areas:** Company · URL-Shortener · Open-Source · PHP · Self-Hosted
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://yourls.org/)
+- [Documentation](https://yourls.org/docs)
+- [Getting started](https://yourls.org/docs/category/getting-started)
+- [Support](https://yourls.org/sponsor)
+- [Changelog](https://github.com/YOURLS/YOURLS/releases)
+- [Blog](https://yourls.org/blog)
+- [Security](https://yourls.org/blog/tags/security)
+- [GitHub](https://github.com/YOURLS/YOURLS)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/yourls/](https://apis.io/providers/yourls/).
